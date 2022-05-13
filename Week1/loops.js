@@ -135,11 +135,11 @@ if (fourFilms[2] == "GhostBusters") {
 
 // // While Loop
 // // Uses a condition and the program will run WHILE the condition is met
-// // Pros - Can iterate through part of an array example is only want to iterate 1/2 the list
+// // Pros - Can iterate through part of an array 
 // // Cons - Can get stuck on an loop if condition is not met 
 
 // // For Loop 
-// // Iterates over an array for a condition i.e for the length of a list 
-// // Pros - can iterate over a full list if you dont know long the list is i.e a list of over 1200000 items 
-// // Con - cant not iterate over part of list ? 
+// // Iterates over an array for a condition 
+// // Pros - can iterate over a full list if you dont know long the list is 
+// // Con - cant not iterate over part of list 
 
